@@ -7,7 +7,32 @@ body{
     background: black;
     font-family: Arial, Helvetica, sans-serif;
     height: 100px;
-    
+    }
+#contentwrapper{
+    float: left;
+    width: 100%;
+}
+#contentcolumn{
+    margin: 0 230px 0 230px;
+    }
+
+#leftcolumn{
+    float: left;
+    width: 230px;
+    margin-left: -100%;
+    background: #34c8ff;
+}
+#rightcolumn{
+    float: left;
+    width: 230px;
+    margin-left: -230px;
+    background: #fffb00;
+
+}
+.innertext{
+    margin:20px;
+    font-family: Arial;
+    color: #5e5e5e;
 }
 
 
