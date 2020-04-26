@@ -15,6 +15,9 @@ body{
 #contentcolumn{
     margin: 0 230px 0 230px;
     }
+.image-grid >img{
+    margin: 5px;
+}
 
 #leftcolumn{
     float: left;
