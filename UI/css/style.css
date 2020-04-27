@@ -15,6 +15,11 @@ body{
 #contentcolumn{
     margin: 0 230px 0 230px;
     }
+.image-grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 .image-grid >img{
     margin: 5px;
 }
