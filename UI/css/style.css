@@ -23,6 +23,11 @@ body{
 .image-grid >img{
     margin: 5px;
 }
+.image-grid > img:hover{
+    width: 500px;
+    height: 250px;
+    transition: 2s;
+}
 
 #leftcolumn{
     float: left;
